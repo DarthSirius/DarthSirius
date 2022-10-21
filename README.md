@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DarthSirius
-- 👀 I’m interested in Secure Lifecycle SAP ABAP Development
-- 🌱 I’m currently learning ABAP, Python
-- 💞️ I’m looking to collaborate on SAP ABAP Security
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Physics
 - 📫 How to reach me ...
 
 <!---
